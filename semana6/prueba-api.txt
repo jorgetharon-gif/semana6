@@ -1,0 +1,4 @@
+Al enviar la petición POST a la ruta /registro, el servidor recibe correctamente los datos enviados en formato JSON.
+La respuesta que devuelve indica que la información fue recibida exitosamente.
+En este caso, el servidor responde con un objeto JSON que incluye el estado “Datos recibidos” junto con los valores de nombre y mensaje enviados desde Postman.
+Esto confirma que la API está funcionando correctamente y que el backend puede leer y procesar la información enviada por el usuario.

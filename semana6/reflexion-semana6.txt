@@ -1,0 +1,7 @@
+Es importante que las plataformas tecnológicas puedan recibir reportes de forma estructurada porque así la información llega clara y organizada.
+Cuando los ciudadanos envían datos bien definidos, el sistema puede procesarlos más rápido y sin errores.
+Esto permite registrar incidencias, solicitudes o comentarios de manera correcta.
+También facilita que los desarrolladores verifiquen si la API está funcionando bien.
+Además, una buena estructura ayuda a que la información sea más útil para tomar decisiones.
+En proyectos como este, aprender a recibir datos con POST es fundamental para construir sistemas reales.
+Gracias a esto, una aplicación puede comunicarse mejor con los usuarios y responder de forma más eficiente.

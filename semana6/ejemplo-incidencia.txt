@@ -1,0 +1,4 @@
+{
+  "tipo": "Vía en mal estado",
+  "descripcion": "Se reporta un hueco grande en la avenida principal que dificulta el paso de vehículos y motos."
+}
